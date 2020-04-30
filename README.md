@@ -2,7 +2,7 @@
 <html> 
  
 <head> 
- <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <script data-ad-client="ca-pub-1234567890123456" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head> 
  
 <body> 
